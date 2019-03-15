@@ -28,3 +28,8 @@ client.on('ready', () => {//new ready event
   }, 500);//the rainbow time
 })	   
 			   
+
+
+client.login(process.env.BOT_TOKEN);
+	     
+	    
